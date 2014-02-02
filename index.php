@@ -11,18 +11,17 @@
 <div class="post"> <h2>About Me</h2> 
   <ul>
 	<li>I'm a student studying Computer Science at the University of Michigan in Ann 
-	Arbor. I'm minoring in mathematics, particularly focusing on discrete math topics such as 
-	combinatorics, probability and graph theory.</li>
-	<li>Currently I am a sophomore, taking Linear Algebra, Probability and Computer Organization 
-	(Math 214, Math/Stats 425, EECS 370). Previously, I've taken up through multi-variable calculus, 
-	Data Structures and Algorithms and Digital Logic Design (Math 215, EECS 281, EECS 270).</li>
+	Arbor.</li>
+	<li>Currently I am a Junior, taking Operating Systems, Autonomous Robtics, and Electronic Circuits 
+	(EECS 482, EECS 467, EECS 314). Previously, I've taken up through multi-variable calculus, 
+	Data Structures and Algorithms, Computer Organization, Embedded Systems Design and Artificial Intelligence 
+	(Math 215, EECS 281, EECS 370, EECS 373, EECS 492).</li>
 	<li>I'm very interested in robotics and embedded programming. Generally, I'm right on the line 
 	between hardware and software, almost more computer engineering than computer science. But I 
 	like the variety offered by a CS degree, and am definitely interested in exploring new fields.
 	</li>
-	<li>In the future, I plan on taking Operating Systems, Networks, Microprocessor Systems Design,
-	Embedded Control Systems, Computer Architecture Databases and Autonomous Robotics Lab while 
-	filling in the rest with other EECS/Math classes I find interesting at the time.</li>
+	<li>In the future, I plan on taking Embedded Control Systems, Computer Architecture and Advanced Embedded System Design
+	while filling in the rest with other EECS/Math classes I find interesting at the time.</li>
   </ul>
   </div>
   <div class="columns">

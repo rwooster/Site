@@ -18,20 +18,23 @@
 Expected Graduation: May 2015 
 <br>
 Major: Bachelor's of Engineering in Computer Science 
-<br>
-Minor: Mathematics (focus in Discrete Math)
 </p>
 <h2>Work Experience</h2>
-<h3>Engineering Administration Computer Support - September 2012-Present</h3>
-<h4>Tier 1 Helpdesk</h4>
+<h3>Lab Instructor - September 2013 - Present</h3>
+<h4>Digital Logic Design</h4>
 <br>
 <ul>
-	<li>Troubleshoot and fix user issues with both Windows and Mac computers over email, over the 
-	phone and in person.</li>
-	<li>Configure a variety of different computers to our projector and sound systems for 
-	presentations.<li>
-	<li>Work with users to help adjust to the university switch to Google. Explained the use of 
-	different applications and features offered by Google products.</li>
+	<li>Instruct students on lab material including programming an FPGA using Verilog.</li>
+	<li>Provide support for students working on lab projects.</li>
+</ul>
+<br>
+<h3>Altair Engineering - May 2013 - August 2013</h3>
+<h4>Software Engineering Intern</h4>
+<br>
+<ul>
+	<li>Designed and implemented a new input reader for the Ensight Gold Case-file format.</li>
+	<li>Ran timing benchmarks and made changes to improve memory and time efficiency.</li>
+	<li>Part of the design process of a new API, as well as doing much of the implementation work.</li>
 </ul>
 <br>
 <h3>Undergraduate Research Opportunity Program - September 2011 - April 2012</h3>
@@ -44,22 +47,30 @@ Minor: Mathematics (focus in Discrete Math)
 </ul>
 <br>
 <h2>Projects</h2>
+<h3>Self-Balancing Robot</h3>
+<ul>
+	<li>Built a two wheeled self-balancing robot as part of a team using an ARM Cortex M-3 Processor and onboard FPGA.</li>
+	<li>Wrote code to update LCD graphics display over a wireless communication.</li>
+	<li>Programmed a feedback control system using a gyroscope and accelerometer for angle measurements.</li>
+</ul>
+<br>
+<h2>Projects</h2>
 <h3>Personal Website</h3>
 <ul>
 	<li>Developed personal website using HTML/CSS for design and layout, built off of a basic template.</li>
 	<li>Wrote a registration and login system using a PHP and MySQL back-end with a front-end JavaScript validation system.</li>
-	<li>Developed user features such as a file upload/management system and an administrator control panel for approving/denying new account 	requests.</li>
+	<li>Developed user features such as a file upload/management system and an administrator control panel for approving/denying new account requests.</li>
 </ul>
 <p>More details on my projects can be found on my <a href="projects.php">Projects</a> page.</p>
 <br>
 <h3>Familiar Technologies</h3>
 <p><strong>Languages (experienced): </strong>C, C++
 <br>
-<strong>Languages (familiar): </strong>Verilog, Python
+<strong>Languages (familiar): </strong>Verilog, Python, PHP, Arm Assembly
 <br>
-<strong>Languages (exposed to): </strong>LabVIEW, HTML/CSS
+<strong>Languages (exposed to): </strong>LabVIEW, HTML/CSS, Javascript
 <br>
-<strong>Other: </strong>Windows, Linux, Git, LaTeX
+<strong>Other: </strong>Windows, Linux, Git, Perforce, Visual Studio
 </div>
 <div class="clear2"></div>
 </div>

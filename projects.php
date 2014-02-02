@@ -14,15 +14,25 @@
 I post almost all of my code onto <a href="https://github.com/rwooster">my GitHub</a>, so feel free
 to take a look.</a>
 <br><br>
+<h3>Self Balancing Robot</h3>
+<p>For my Embedded Systems Design class (EECS 373), I worked as part of a group of four to develop a self
+balancing robot. This was a two wheeled robot with an onboard Actel Smartfusion board, which contains an ARM Cortex-M3
+and an FPGA. The wheels were powered by two continuous rotation servos and feedback control was done using the input from the
+Interial Measuring Unit (IMU), which had a 3 axis accelerometer and 3 axis gyroscope. The robot could also be wirelessly controlled 
+from our base station using two Xbee modules. A Gamecube controller was connected to a second Smartfusion board on our base station. 
+This base station also had an LCD graphics display which shows the current angle the robot is balancing at. </p>
+
+
+<br><br>
 <h3>This Website</h3>
-<p>This webiste is my current big project. The initial HTML/CSS is based off of a template (link at the bottom
+<p>The initial HTML/CSS is based off of a template (link at the bottom
 of each page) which I modified a bit for the general design and rewrote completely for most of the forms on
 the site (e.g. the contact page, login page, etc). The website contains a contact form written in PHP
 with Javascript validation, registration/login system written in PHP with MySQL and different features for different
 user levels. Currently all approved users have access to a file upload system, where files can be uploaded/downloaded/
-deleted in a DropBox like system. Also, admin accounts have access to a list of accounts waiting to be approved,
-with approve/deny buttons built to automatically update the user database. Other features are continually under
-construction.</p>
+deleted in a DropBox like system and a basic chat-room with jQuery front-end and PHP/MySQL back-end. Also, admin accounts 
+have access to a list of accounts waiting to be approved, with approve/deny buttons built to automatically update the user 
+database. Other features are continually under construction.</p>
 <br><br>
 
 <h3>Nand2Tetris</h3>
